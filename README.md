@@ -1,11 +1,12 @@
 # Chat seamlessly with multiple PDF files in AWS cloud.
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
-The backend is found at https://github.com/CyprianFusi/pdf-fastapi-backend.git
-
 ## Demo View
 <div align="center">
   <img src="https://raw.githubusercontent.com/CyprianFusi/pdf-vercel-frontend/master/public/demo_view.png" alt="Demo View" width="750"/>
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+
+The backend is found at https://github.com/CyprianFusi/pdf-fastapi-backend.git
 
 ## Getting Started
 
