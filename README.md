@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/pdf-vercel-frontend/master/public/binati_logo.png" alt="BINATI AI Logo" width="150"/>
-  
 # Chat seamlessly with multiple PDF files in AWS cloud.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
