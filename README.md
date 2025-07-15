@@ -4,6 +4,7 @@
 # Chat seamlessly with multiple PDF files in AWS cloud.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+The backend is found at https://github.com/CyprianFusi/pdf-fastapi-backend.git
 
 ## Demo View
 <div align="center">
